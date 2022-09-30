@@ -1,0 +1,18 @@
+#header{
+    background-color: green;
+}
+#Col1{
+    background-color: red;
+}
+#Col2{
+    background-color: palevioletred;
+}
+#Col3,#Col4{
+    background-color: burlywood;
+}
+#Col5,#Col6,#Col7,#Col8,#Col9,#Col10,#Col11,#Col12,#Col13,#Col14{
+    background-color: blue;
+}
+#footer{
+    background-color: green;
+}

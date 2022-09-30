@@ -1,0 +1,10 @@
+#Col1{
+    background-color: green;
+}
+#Col2,#Col3,#Col4{
+    height: 300px;
+    background-color: red;
+}
+#Col5,#Col6{
+    background-color: yellow;
+}

@@ -1,0 +1,18 @@
+#header{
+    background-color: green;
+}
+#Col1{
+    height: 100px;
+    background-color: yellow;
+}
+#Col2,#Col3{
+    height: 100px;
+    background-color: orange;
+}
+#Col4{ 
+    height: 200px;
+    background-color: cyan;
+}
+#footer{
+    background-color: burlywood;
+}

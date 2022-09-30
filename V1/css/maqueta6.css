@@ -1,0 +1,25 @@
+#text1{
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+#text2{
+    background-color: bisque;
+    font-size: 20px;
+    position: relative;
+    bottom: 100px;
+    left: 40px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    width: 200px;
+}
+#text3{
+    background-color: bisque;
+    font-size: 20px;
+    position: relative;
+    left: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    width: 200px;
+}
